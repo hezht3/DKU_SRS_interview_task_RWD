@@ -15,7 +15,7 @@ The other option is to click the green "clone or download" button and then click
 
 ## Background
 
-This task is to generate a dataset to analyze air pollution level in each city in China in year 2018.
+This task is to generate a dataset to analyze air pollution level in each city in China in Spring, 2018.
 
 
 ## Dataset
