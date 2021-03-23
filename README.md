@@ -39,7 +39,7 @@ Third, please merge the dataset you generated with the station id dataset. Then,
 
 Finally, please merge the dataset you generated with the city admin code dataset.
 
-For each step, please drop all observations with NA or NaN values.
+For Step 2-4, please drop all observations with NA or NaN values.
 
 
 ## Notes
