@@ -5,9 +5,6 @@ date: "2021/3/24"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # DKU SRS interview task for sophomore and junior students: RWD
 
 
@@ -15,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi. I would like to again express my thanks for your interests in our group's projects and thanks for taking out time participating in the arranged interview. We are thinking about implicating this short task in the interview for you to know that what your work might be like in the SRS project and for us to better know you, so please take it easy.
 
-This task is to generate a dataset to analyze air pollution level in each city in China in Spring, 2018.
+This task is to generate a dataset to analyze air pollution level in each city in China in Spring, 2018. The time limit is 40 minutes.
 
 
 ## Setup
