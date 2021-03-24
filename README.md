@@ -1,13 +1,3 @@
----
-title: "DKU_SRSinterview_HALSA_junior"
-author: "Johnathan He"
-date: "2021/3/24"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # DKU SRS interview task for sophomore and junior students: RWD
 
 
